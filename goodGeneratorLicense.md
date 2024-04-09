@@ -1,8 +1,10 @@
+-------
+
 # Good Generator License Agreement
 
-*Last Modified: April 7, 2024*
+*Last Modified: April 9, 2024*
 
-Thank you for choosing to be a changemaker with us! Please read this Good Generator License Agreement (the “Agreement”, "Terms of Use", or "Terms of Service") carefully as it governs your use of our technology, products, and services associated with our Good Generator offering (the “Services”) and the relationship between you (the “User”, “you”, or "your", a “Party”) and Change Code, Inc. and its affiliates (Change Code, “we”, “us”, or “our”, also a “Party”). Change Code provides the Services to you on the terms and conditions set forth in this Agreement and on condition that you accept and comply with them. 
+Thank you for choosing to multiply your impact with Change Code! Please read this Good Generator License Agreement (the “Agreement”, "Terms of Use", or "Terms of Service") carefully as it governs your use of our technology, products, and services associated with our Good Generator offering (the “Services”) and the relationship between you (the “User”, “you”, or "your", a “Party”) and Change Code, Inc. and its affiliates (Change Code, “we”, “us”, or “our”, also a “Party”). Change Code provides the Services to you on the terms and conditions set forth in this Agreement and on condition that you accept and comply with them. 
 
 By clicking on the “I Agree” or similar button or by accessing or using the Services, you accept all the terms, conditions, restrictions, and obligations of this Agreement. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind such company or other legal entity to this Agreement.
 
