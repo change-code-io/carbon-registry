@@ -98,7 +98,7 @@ By clicking on the “I Agree” or similar button or by accessing or using the 
 
 **9.2** CHANGE CODE PROVIDES THE SERVICES “AS IS,” “AS AVAILABLE,” AND “WITH ALL FAULTS” WITHOUT WARRANTY OF ANY KIND. WITHOUT LIMITING THIS, WE EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, REGARDING THE SERVICES AND API INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, SECURITY, ACCURACY, AND NON-INFRINGEMENT. CHANGE CODE DOES NOT WARRANT THAT: (A) THE SERVICES WILL MEET YOUR REQUIREMENTS; (B) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (C) THAT THE INFORMATION PROVIDED THROUGH THE SERVICES IS ACCURATE, RELIABLE OR CORRECT; (D) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (E) THE SERVICES WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; OR (F) THE SERVICES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-**9.3** Without limitation to anything in this Agreement, Change Code will make commercially reasonable efforts to maximize the availability of our Services. Under certain circumstances, as defined in our [Services Availability Policy](https://changecode.io/legal/#servicesavailablity), you may be entitled to a credit for Services.
+**9.3** Without limitation to anything in this Agreement, Change Code will make commercially reasonable efforts to maximize the availability of our Services. In the event that Services are interrupted, we will make attempts to share information with users to minimize any potential impact.
 
 **9.4** To promote the broad availability of the Services, you acknowledge that Change Code reserves the right to enforce additional usage limits in its sole discretion.
 
@@ -146,7 +146,7 @@ Either Party may bring a lawsuit in the federal or state courts of Travis County
 
 (c) In order to receive the benefits under this Section 12.10, the Party seeking indemnification must promptly notify the other Party of the claim and cooperate with the other Party in defending against the claim. The indemnifying Party will have full control and authority over the defense, except that: (i) any settlement requiring the Party seeking indemnification to admit liability requires prior written consent, not to be unreasonably withheld or delayed; and (ii) the other Party may join in the defense with its own counsel at its own expense.
 
-**12.11. Interpretation of Conflicting Terms.** If there is a conflict between the documents or materials incorporated by reference in this Agreement, the materials will take the following descending order of control: this License Agreement, our Acceptable Use Policy, our Services Availability Policy, our Privacy Policy, any material found on our Website.
+**12.11. Interpretation of Conflicting Terms.** If there is a conflict between the documents or materials incorporated by reference in this Agreement, the materials will take the following descending order of control: this License Agreement, our Acceptable Use Policy, our Privacy Policy, any material found on our Website.
 
 **12.12. No Class Action.** You may only resolve disputes with us on an individual basis and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed. If this specific section is held unenforceable, then Section 13.5 will be deemed void.
 
