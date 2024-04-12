@@ -20,7 +20,7 @@ By clicking on the “I Agree” or similar button or by purchasing or otherwise
 
 **2.1** Change Credits exist as tokenize assets adhering to the ERC-721 non-fungible token standard on various blockchain protocols, including Ethereum, Polygon, Optimisim, and Celo. By purchasing Change Credits, you agree that you understand the inherent risks associated with cryptographic and distributed ledger protocols and that you have an understanding of the usage and intricacies of web3 software systems.
 
-**2.2** Change Code will send purchaed Change Credits to the wallet address you provide to us upon checkout. Change Code is not responsible for any typographic or other errors made in providing your address to us. In the event you loss access to any wallet containing Change Credits, you acknowledge that Change Code will have no ability to assist you in the recovery of those assets.
+**2.2** Change Code will send purchased Change Credits to the wallet address you provide to us upon checkout. Change Code is not responsible for any typographic or other errors made in providing your address to us. In the event you loss access to any wallet containing Change Credits, you acknowledge that Change Code will have no ability to assist you in the recovery of those assets.
 
 ## 3. Purchase
 
