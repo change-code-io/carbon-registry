@@ -2,7 +2,7 @@
 
 # Change Code - Privacy Policy
 
-*Last Modified: April 6, 2024*
+*Last Modified: July 1, 2024*
 
 At Change Code, we are committed to transparency and an open dialogue with our community. This Privacy Policy details how Change Code collects, uses, manages, and deletes your data.
 
@@ -18,7 +18,7 @@ This Privacy Policy is intended to be read and understood as a complement to all
 
 At Change Code, we're committed to collecting as little user information as possible while still delivering an excellent experience to our users and community. We're focused on improving our offerings, not on following you around the internet.
 
-**2.1 Visiting changecode.io.** On our website we employ several analytics tools, which may include first party cookies. We use analytics and cookies to gain a better understanding of how our website is being used and how it may be improved. We do not use cookies for advertising purposes. You may set your browser to not accept cookies or select to disable cookies when you visit our website; however, in a few cases, some of our website feature may not function as a result.
+**2.1 Visiting changecode.io.** On our website we leverage [Plausible Analytics](https://plausible.io/), an open source, privacy-preserving analytics platform. All website usage data is anonymous, free of any personal information, and collected without the use of cookies. We use analytics and to gain a better understanding of how our website is being used and how it may be improved, but do not sell or share any information for advertising purposes.
 
 **2.2 Use of services.** Depending on the Change Code services you elect to access, you may be required to provide some level of personal information. Change Code may collect information such as your email address, blockchain address, and information reasonably required to comply with appropriate Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Change Code will never sell this information and will only use or share this information with third parties as required to provide you with our services.
 
