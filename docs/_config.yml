@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Change Code Legal Agreements
-email: legal@changecode.io
-description: Repository for Change Code legal agreements. Here you can find all the policies and agreements that govern your use of Change Code's products and services.
+title: BCarbon Terms
+# email: ""
+description: Repository for BCarbon terms and usage policies. Here you can find all the policies and agreements that govern your use of the BCarbon registry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
